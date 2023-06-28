@@ -1,9 +1,13 @@
+# Update
+# I am currently busy doing my homeworks in another place, so this profile is not very active. Thanks for your patience!
+
+
 ### Hi there
 
 - 📜 I’m interested in FullStack, Linux and Desktop app development
 - 🌱 I’m currently learning FullStack and Linux
 - 💬 Ask me about Linux, FrontEnd and BackEnd web-development
-<!-- - 📧 How to reach me: peter.kolosov.developer@yandex.ru -->
+- 📧 How to reach me: peter.kolosov.developer@yandex.ru
 
 ### :crystal_ball: GitHub Stats
 <div align="center">
