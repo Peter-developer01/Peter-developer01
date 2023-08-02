@@ -1,13 +1,8 @@
 # Update
 # I am currently busy doing my homeworks in another place, so this profile is not very active. Thanks for your patience!
 
-
-### Hi there
-
-- 📜 I’m interested in FullStack, Linux and Desktop app development
-- 🌱 I’m currently learning FullStack and Linux
-- 💬 Ask me about Linux, FrontEnd and BackEnd web-development
-- 📧 How to reach me: peter.kolosov.developer@yandex.ru
+<h1 align="center">Hi 👋, I'm Peter Kolosov</h1>
+<h3 align="center">FullStack developer</h3>
 
 ### :crystal_ball: GitHub Stats
 <div align="center">
@@ -15,22 +10,17 @@
 ![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge)
 </div>
 
-<h1 align="center">Hi 👋, I'm Peter Kolosov</h1>
-<h3 align="center">FullStack developer from Russia</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peter-developer01" alt="peter-developer01" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack and Linux**
+- 🌱 I’m currently learning **Full Stack and Linux**
+- 💬 Ask me about **Front End, Back End, Linux, programming, etc.**
+- 📫 How to reach me **peter.kolosov.developer@yandex.ru** or **[talk in discussions](https://github.com/Peter-developer01/Peter-developer01/discussions/4)**
 
-- 💬 Ask me about **FrontEnd, BackEnd, Linux, programming, etc.**
-
-- 📫 How to reach me **peter.kolosov.developer@yandex.ru**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://codepen.io/peter-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="peter-developer" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1056204478795218975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1789" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
