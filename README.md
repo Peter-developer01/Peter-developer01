@@ -1,5 +1,8 @@
 # Update
-# I am currently busy doing my homeworks in another place, so this profile is not very active. Thanks for your patience!
+
+## I am currently busy doing my homeworks in another place, so this profile is not very active. Thanks for your patience!
+
+---
 
 <h1 align="center">Hi 👋, I'm Peter Kolosov</h1>
 <h3 align="center">FullStack developer</h3>
