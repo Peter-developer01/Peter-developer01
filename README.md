@@ -4,7 +4,7 @@
 ### :crystal_ball: GitHub Stats
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge) ![](https://www.codewars.com/users/Peter-developer01/badges/large)
 </div>
 
 
@@ -14,6 +14,12 @@
 - 🌱 I’m currently learning **Full Stack and Linux**
 - 💬 Ask me about **Front End, Back End, Linux, programming, etc.**
 - 📫 How to reach me **peter.kolosov.developer@yandex.ru** or **[talk in discussions](https://github.com/Peter-developer01/Peter-developer01/discussions/4)**
+
+<div align="center">
+  <a href="https://codewars.com/users/Peter-developer01/">
+    <img src="https://www.codewars.com/users/Peter-developer01/badges/large" alt="CodeWars profile for Peter-developer01">
+  </a>
+</div>
 
 <h3 align="left">Links:</h3>
 <p align="left">
