@@ -4,7 +4,7 @@
 ### :crystal_ball: GitHub Stats
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge) ![](https://www.codewars.com/users/Peter-developer01/badges/large)
+![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge)
 </div>
 
 
