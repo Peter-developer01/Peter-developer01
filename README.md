@@ -7,7 +7,11 @@
 ![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge)
 </div>
 
-
+<div align="center">
+  <a href="https://codewars.com/users/Peter-developer01/">
+    <img src="https://www.codewars.com/users/Peter-developer01/badges/large" alt="CodeWars profile for Peter-developer01">
+  </a>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peter-developer01" alt="peter-developer01" /></a> </p>
 
