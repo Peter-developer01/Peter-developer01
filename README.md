@@ -4,7 +4,7 @@
 ### :crystal_ball: GitHub Stats
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge)
+![](https://tracker.peter-developer.repl.co) ![](https://tracker.peter-developer.repl.co/visitors) ![](https://img.shields.io/github/followers/Peter-developer01?logo=github&style=for-the-badge)
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-developer01&theme=dark" alt="peter-developer01" /></p>
 
-
+![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff)
 
 
 <small><small><small><small>wait for changes!!!</small></small></small></small>
