@@ -40,6 +40,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-developer01&theme=dark" alt="peter-developer01" /></p>
 
 ![](https://komarev.com/ghpvc/?username=Peter-developer01&style=for-the-badge&color=50adff)
-
-
-<small><small><small><small>wait for changes!!!</small></small></small></small>
