@@ -15,10 +15,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peter-developer01" alt="peter-developer01" /></a> </p>
 
+<img align="right" src="https://github.com/Peter-developer01/Peter-developer01/assets/101456132/187f9761-e84a-4997-b254-47c0ba5c5d89" alt="tiger" width="100">
+
 - 🌱 I’m currently learning **Full Stack and Linux**
 - 💬 Ask me about **Front End, Back End, Linux, programming, etc.**
 - 📫 How to reach me **peter.kolosov.developer@yandex.ru** or **[talk in discussions](https://github.com/Peter-developer01/Peter-developer01/discussions/4)**
-
 
 
 <h3 align="left">Links:</h3>
