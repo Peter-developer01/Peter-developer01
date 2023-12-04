@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Kolosov</h1>
 <h3 align="center">FullStack developer</h3>
 
-*\*After clicking, you will need to register in order to get gifts.*
-
 ### :crystal_ball: GitHub Stats
 <div align="center">
 
