@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Kolosov</h1>
+<h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">FullStack developer</h3>
 
 ### :crystal_ball: GitHub Stats
@@ -17,11 +17,11 @@
 </div>
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peter-developer01" alt="peter-developer01" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Peter-developer01" alt="github-profile-trophy for peter-developer01" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack and Linux**
 - 💬 Ask me about **Front End, Back End, Linux, programming, etc.**
-- 📫 How to reach me **peter.kolosov.developer@yandex.ru** or **[talk in discussions](https://github.com/Peter-developer01/Peter-developer01/discussions/4)**
+- 📫 How to reach me: **[talk in discussions](https://github.com/Peter-developer01/Peter-developer01/discussions/4)**
 
 <h3 align="left">Links:</h3>
 <p align="left">
